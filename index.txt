@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+      <title> KID KITTLES </title>
+      <link rel="stylesheet" href="styles.css">
+  </head>
+    <body >
+       <header>
+            <h1> Kid Kittles </h1>
+               <p1>Hannah NP  Mungamuri</p1>
+	    <nav>
+		<ul>
+		    <li><a href="#Color confusion">Color confusion </a></li>
+		    <li><a href="#Cool Chair"> Cool Chair </a></li>
+		</ul>
+	    </nav>
+        </header>
+            <main>
+            <article>
+                 <section>
+                 <a name="Color confusion"></a>
+                   <h2>Color confusion </h2>
+
+
+
+
+             <p>      Kids can say things that teach the truth in a toffee.
+                 Even bitter truths are like toffee melting in my mouth, When
+                 my kid says it with innocent, earnest honesty !! <br>
+                <strong> TRUTH !</strong> Truth could be so elusive, until a kid,
+                says it with <em> brutal honesty. </em>
+                   I remember the day, my kid solved a big, divisive, destructive
+                   issue that has been a plague to humans - in a sweet sentence !
+                   We were having a cozy mother-daughter quality time. My daughter
+                   Amgela was 2 years old and sitting in my lap, as we were looking
+                   at my birthday photos from last week. My friends had a surprise birthday party
+                   for me with purple roses, cake, kid-friendly food and we had taken
+                   a bunch of photos to record all the fun stuff we had done that day.
+                   My daughter looked at a photo where she and her friend were sitting
+                   on a couch looking darling !! They were best buddies !
+                   Suddenly my daughter ,Angela exclaimed, "Look mommy !! Rachel's
+                   Vanilla and Iam chocolate ! " It took me a second to understand that,
+                   Angela had realized that her friend and she had different skin colors.
+                   RAchel was White and my daughter was Black. But my daughter had not yet
+                   heard about race . So she just referred to Rachel's WHite skin as
+                   'Vanilla' and her own Black skin color as 'chocolate !'.
+                        What an unnecessary load of trouble we have heaped up over the
+                    years, by teaching kids to recognize skin color as a racial
+                    difference ! So I decided not to tell her she was Black and not
+                    CHocolate. She was as sweet as chocolate ;so what's the harm if I
+                    let her call herself chocolate ??!! YUMMY !!!
+
+                Iam from India ,where being born with darker skin is an inferior thing.
+                Indians use face cremes to lighten their skin -' Fair & Lovely ' was a
+                famous brand that promised to lighten skin color in just a few weeks !
+                  Lighter the skin color of a girl, lower the dowry her parents need to
+                  give her husband's parents !! So a little investment in skin lightening
+                  cremes is thought of as a good investment for one's daughter- even in 2020 !
+
+                  So, when we took my daughter,Angela, to India, my maid told her that she
+                  needs to lighten her skin and started rubbing tumeric paste mixed with
+                  some natural powders on Angela's skin. I was pregnant at that time and was
+                   having morning sickness that day.So the maid had cajoled Angela to let her
+                   lighten Angela's skin. But my daughter's skin broke out into a rash.
+
+                                    Oh,boy ! what a mess !
+                  My little daughter was crying and I felt such regret that she had
+                  found about, the  " Black and White " skin differences in such a rude way.
+                  Gone was the sweet reference to her skin color as 'chocolate' !!
+                  She is still my chocolate - my sweetie !!
+                  <br>
+                  <div>
+                  <img src="images\chocolate.jpg"
+                  alt="chocolate icecream " style="height:428px; width:598px;"><br>
+                  </div>
+                </p>
+                  </section>
+                  <section>
+                  <section>
+                  <a name="Cool Chair"></a>
+                    <h2>Cool Chair</h2>
+             <p>    My second daughter,Alice, is always curious about her surroundings
+                  <em><strong>She's always asking me questions !!</strong></em>
+                  So I enrolled her in a pre school, so that her teacher and I could
+                  take turns answering Alice's ever -growing set of questions . Oh,boy !
+                  her brain must have tons of little wheels that churn out questions
+                  incessantly !! IT was funny,though ,that I missed her little curious
+                  voice asking me questions that morning , while,ALice enjoyed her first
+                  day at pre school. She had been pleading me for weeks, by then, to let her
+                  go to school, as she was a "BIG GIRL" now !! Sure enough, the little tike
+                  had an enchanting day at her pre school. Now it was my turn to see the world
+                  through ALice's eyes. For once, instead of asking questions, Alice was
+                  enlightening me about all the new things she had seen and learnt at her
+                  pre school. Finally, when Alice paused, to take a breath, I jumped in
+                  with my questions and asked ALice, about the best thing she liked at her
+                  pre school. Alice's eyes started shinig with wonder as she exclaimed,"The
+                  best thing at school is my teacher's COOL CHAIR ! " I was amazed, as I
+                  realized that,ALice was referring to her paralyzed teacher's wheel chair !!
+
+                      I guess it takes a child's innocence to put things into perspective !
+                  I had known that her teacher was paralyzed a few years ago and felt sorry
+                  for her. And here was my dear little daughter-referring to  such a misfortune
+                  as a cool thing !! I was looking at, 'what her teacher had lost' ,while Alice
+                  was looking at 'what her teacher had gained' - a brand new COOL CHAIR !!
+
+                  I quickly changed the subject , afraid that, Alice might ask me, to buy her a
+                  cool chair for Christmas. With kids, you never know what to expect !!!
+
+                 <br>
+                 <div>
+                 <img src="images\coolChair.jpg"
+                 alt="Wheel chair " style="height:428px; width:598px;"><br>
+                 </div>
+                 </section>
+                 <p class="conclusion">Maybe we should elect chidren fr US congress and
+                 get efficient solutions to problematic issues we face today !!</p>
+
+                    </section>
+
+                </article>
+           </main>
+
+        <footer>
+            <p> Copyright pending by: &copy Hannah Mungamuri (hannahmoses612@gmail.com) </p>
+          </footer>
+
+
+
+
+
+    </body>
+
+</html>
