@@ -1,0 +1,41 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color:rgb(198,12,100);
+    text-align: center;
+    }
+h2 {
+    color:rgb(198,12,100);
+    text-align: center;
+    }
+p1 {
+    color:red;
+    text-align: left;
+   }
+div {
+    border: 2px solid black;
+    height:428px;
+    width: 598px;
+    margin-top: 90px;
+    margin-bottom: 100px;
+    margin-right: 500px;
+    margin-left: 400px;
+    background-color:rgb(198,12,100);
+    padding : 12px 15px 12px 15px;
+
+}
+
+p {
+    color:black;
+    text-align: left;
+   }
+p.conclusion{ background:yellow
+            }
+header{
+    padding-top:1.7em;
+    padding-right:0px;
+    padding-bottom:1.7em;
+    padding-left:0px;
+}
